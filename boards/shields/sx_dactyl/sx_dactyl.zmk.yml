@@ -1,0 +1,13 @@
+file_format: "1"
+id: sx_dactyl
+name: SX Dactyl
+type: shield
+url: https://github.com/xiyivan/zmk-config-V2
+requires:
+  - pro_micro
+features:
+  - keys
+  - studio
+siblings:
+  - sx_dactyl_left
+  - sx_dactyl_right
