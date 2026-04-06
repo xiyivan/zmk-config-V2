@@ -22,7 +22,7 @@ include:
   - board: nice_nano_v2
     shield: sx_dactyl_left
     snippet: studio-rpc-usb-uart
-  - board: 
+  - board: nice_nano_v2
     shield: sx_dactyl_right
   - board: nice_nano_v2
     shield: settings_reset
