@@ -12,7 +12,7 @@
 / {
     chosen {
         zmk,kscan = &kscan0;
-        zmk,physical-layouts = &dactyl_layout;
+        zmk,physical-layouts = &default_layout;
     };
 
     default_transform: keymap_transform_0 {
@@ -57,7 +57,7 @@ RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4) RC(3,5)                     RC(3,12) RC(
     };
 };
 
-&dactyl_layout{
+&default_layout{
 
 	transform = <&default_transform>;
 
