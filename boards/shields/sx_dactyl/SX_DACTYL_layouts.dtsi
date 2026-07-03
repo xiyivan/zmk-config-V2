@@ -65,26 +65,13 @@
             , <&key_physical_attrs 100 100 1900 200    0 0 0>
             , <&key_physical_attrs 100 100 2000 200    0 0 0> // RK15
             // Row 3
+            , <&key_physical_attrs 100 100 1400 300    0 0 0> // RK28
             , <&key_physical_attrs 100 100 1500 300    0 0 0> // RK27
-            , <&key_physical_attrs 100 100 1600 300    0 0 0>
-            , <&key_physical_attrs 100 100 1700 300    0 0 0>
-            , <&key_physical_attrs 100 100 1800 300    0 0 0>
-            , <&key_physical_attrs 100 100 1900 300    0 0 0>
+            , <&key_physical_attrs 100 100 1600 300    0 0 0> // RK26
+            , <&key_physical_attrs 100 100 1700 300    0 0 0> // RK25
+            , <&key_physical_attrs 100 100 1800 300    0 0 0> // RK24
+            , <&key_physical_attrs 100 100 1900 300    0 0 0> // RK23
             , <&key_physical_attrs 100 100 2000 300    0 0 0> // RK22
-
-            // --- ROW 3 (LK22-27 and RK27-22) ---
-            , <&key_physical_attrs 100 100    0 300    0 0 0> 
-            , <&key_physical_attrs 100 100  100 300    0 0 0>
-            , <&key_physical_attrs 100 100  200 300    0 0 0>
-            , <&key_physical_attrs 100 100  300 300    0 0 0>
-            , <&key_physical_attrs 100 100  400 300    0 0 0>
-            , <&key_physical_attrs 100 100  500 300    0 0 0>
-            , <&key_physical_attrs 100 100 1500 300    0 0 0> 
-            , <&key_physical_attrs 100 100 1600 300    0 0 0>
-            , <&key_physical_attrs 100 100 1700 300    0 0 0>
-            , <&key_physical_attrs 100 100 1800 300    0 0 0>
-            , <&key_physical_attrs 100 100 1900 300    0 0 0>
-            , <&key_physical_attrs 100 100 2000 300    0 0 0>
 
             // --- ROW 4 (LK28-29 and RK29-28) - REVERTED TO FLAT ---
             // Positioned at Y=400, no rotation.
