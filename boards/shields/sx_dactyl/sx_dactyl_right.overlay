@@ -12,6 +12,6 @@
         , <&gpio1 15 GPIO_ACTIVE_HIGH> // col4 in the schematic
         , <&gpio1 13 GPIO_ACTIVE_HIGH> // col5 in the schematic
         , <&gpio1 11 GPIO_ACTIVE_HIGH> // col6 in the schematic
-        , <&gpio1 10 GPIO_ACTIVE_HIGH> // col7 in the schematic
+        , <&gpio0 10 GPIO_ACTIVE_HIGH> // col7 in the schematic
         ;
 };
